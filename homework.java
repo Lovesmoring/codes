@@ -1,3 +1,7 @@
+//Using this file because it is one of my recent homework, in this file
+//I created a gameplaying AI to complete a fruit canceling game with each other.
+//It is using greedy/or MiniMax pruning to play the game, and win rate is remarkable.
+
 package assignment1;
 
 import java.io.FileNotFoundException;
